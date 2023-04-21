@@ -1,0 +1,12 @@
+{
+    "modules": [
+
+        {
+            "id": "AidenB's Modded Safetynet Fix",
+            "notes_url": "https://github.com/aidenbowling/Safetynet-Fix-Modded/blob/main/README.md",
+            "prop_url": "https://github.com/aidenbowling/Safetynet-Fix-Modded/blob/main/safetynet/module.prop",
+            "zip_url": "https://github.com/aidenbowling/Safetynet-Fix-Modded/archive/refs/heads/main.zip"
+        }
+    ],
+    "name": "AidenB's Magisk Module Repo"
+}
